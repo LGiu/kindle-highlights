@@ -1,0 +1,2515 @@
+﻿Deuses Americanos (Neil Gaiman)
+- Seu destaque ou posição 6359-6359 | Adicionado: segunda-feira, 17 de junho de 2019 20:04:18
+
+costumava ser comunista e que agora é um caos. Acho que
+==========
+Deuses Americanos (Neil Gaiman)
+- Seu destaque ou posição 8677-8678 | Adicionado: quinta-feira, 18 de julho de 2019 20:01:24
+
+Ele entrou mais para o fundo da caverna. Loki
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 1569-1570 | Adicionado: domingo, 8 de setembro de 2019 19:51:08
+
+Essa é a essência da Revolução Agrícola: a capacidade de manter mais pessoas vivas em condições piores.
+==========
+Sapiens (Harari, Yuval Noah)
+- Sua nota ou posição 1569 | Adicionado: domingo, 8 de setembro de 2019 19:51:54
+
+Leia esta citação.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 1888-1889 | Adicionado: quinta-feira, 12 de setembro de 2019 19:04:37
+
+A história é o que algumas poucas pessoas fizeram enquanto todas as outras estavam arando campos e carregando baldes de água.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 185-189 | Adicionado: sábado, 12 de outubro de 2019 15:39:58
+
+A orientação a objetos quando bem aplicada consegue minimizar estes proble- mas essenciais através da metáfora do objeto. É uma ideia simples: se vivemos em um mundo rodeado de objetos interagindo entre si, por que não metaforizá-los em uma linguagem de programação que nos permita simular estas interações a fim de resolver problemas computacionais? Um plano perfeito no qual nada pode dar er- rado, não é? Claro que não.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 263-264 | Adicionado: domingo, 13 de outubro de 2019 16:19:20
+
+Inversion of Control Containers and the Dependency Injection Pattern [5].
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 290-291 | Adicionado: domingo, 13 de outubro de 2019 16:31:15
+
+Simplificando ao máximo, o Spring é um competente container de injeção de dependências em cima do qual foram construídos diversos módulos com o objetivo de facilitar o desenvolvimento de aplicações corporativas.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 500-502 | Adicionado: terça-feira, 15 de outubro de 2019 19:37:33
+
+Os componentes básicos do Spring É interessante observar que como requisito básico de funcionamento não temos um servidor de aplicações ou Servlets, mas apenas a JVM. Este foi um dos principais diferenciais do Spring em seu lançamento: trazer para o desenvolvedor recursos de computação corporativa que até então só eram oferecidos por servidores de aplicação pesados.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 502-503 | Adicionado: terça-feira, 15 de outubro de 2019 19:37:53
+
+Como exemplo destes recursos podemos citar controle transacional declarativo e gerenciamento de ciclo de vida de componentes.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 504-505 | Adicionado: terça-feira, 15 de outubro de 2019 19:37:56
+
+contrário de um container EJB, não ser uma solução tudo ou nada. Você usa apenas os componentes que interessam ao
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 504-505 | Adicionado: terça-feira, 15 de outubro de 2019 19:38:03
+
+contrário de um container EJB, não ser uma solução tudo ou nada. Você usa apenas os componentes que interessam ao
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 502-503 | Adicionado: terça-feira, 15 de outubro de 2019 19:42:02
+
+Como exemplo destes recursos podemos citar controle transacional declarativo e gerenciamento de ciclo de vida de componentes.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 500-502 | Adicionado: terça-feira, 15 de outubro de 2019 19:42:20
+
+Os componentes básicos do Spring É interessante observar que como requisito básico de funcionamento não temos um servidor de aplicações ou Servlets, mas apenas a JVM. Este foi um dos principais diferenciais do Spring em seu lançamento: trazer para o desenvolvedor recursos de computação corporativa que até então só eram oferecidos por servidores de aplicação pesados.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 511-514 | Adicionado: terça-feira, 15 de outubro de 2019 19:45:48
+
+O BeanFactory existe desde a primeira versão do framework. É basicamente uma implementação sofisticada do padrão Factory, baseada em configuração. Fornece apenas o suporte básico a IoC e DI e encontra-se implementado no módulo core. A segunda versão é baseada no BeanFactory e oferece recursos corporativos mais avançados, como por exemplo gerenciamento de recursos, internacionalização.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 527-529 | Adicionado: terça-feira, 15 de outubro de 2019 19:48:08
+
+O módulo de instrumentação facilita a vida do pessoal de suporte oferecendo facilidades na implementação de JMX. Esta tecnologia nos permite acompanhar em tempo de execução tudo o que acontece com nossos sistemas, gerando diversas estatísticas interessantes.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 527-529 | Adicionado: terça-feira, 15 de outubro de 2019 19:48:13
+
+O módulo de instrumentação facilita a vida do pessoal de suporte oferecendo facilidades na implementação de JMX. Esta tecnologia nos permite acompanhar em tempo de execução tudo o que acontece com nossos sistemas, gerando diversas estatísticas interessantes.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Sua nota ou posição 529 | Adicionado: terça-feira, 15 de outubro de 2019 19:48:34
+
+Inst
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 531-534 | Adicionado: terça-feira, 15 de outubro de 2019 19:51:10
+
+De cara, o Spring nos oferece suporte às principais tecnologias de persistência adotadas por desenvolvedores Java. Há suporte para JDBC, ORMs como Hibernate, iBatis, JPA, JDO e OXM. O suporte a estas tecnologias se da através de templates, que reduzem significativamente a quantidade de código boilerplate, ou seja, de infra estrutura, que precisamos escrever nestas situações, como por exemplo abrir e fechar conexões, iniciar e finalizar transações etc.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 3248-3250 | Adicionado: sábado, 19 de outubro de 2019 19:22:52
+
+O dinheiro é, consequentemente, um sistema de confiança mútua, e não só isso: o dinheiro é o mais universal e mais eficiente sistema de confiança mútua já inventado.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 3248-3250 | Adicionado: sábado, 19 de outubro de 2019 19:24:29
+
+O dinheiro é, consequentemente, um sistema de confiança mútua, e não só isso: o dinheiro é o mais universal e mais eficiente sistema de confiança mútua já inventado.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Sua nota ou posição 846 | Adicionado: terça-feira, 22 de outubro de 2019 19:08:02
+
+Funcionamento do container
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 845-846 | Adicionado: terça-feira, 22 de outubro de 2019 19:08:02
+
+O funcionamento real do container pode ser melhor compreendido observando o diagrama abaixo:
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 877-878 | Adicionado: terça-feira, 22 de outubro de 2019 19:13:50
+
+Singleton Trata-se do escopo padrão aplicado pelo Spring. Garante que apenas uma instância do bean seja instanciada pelo container e compartilhada por todos os outros beans que a usem como dependência.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 927-927 | Adicionado: terça-feira, 22 de outubro de 2019 19:23:29
+
+Beans com inicialização tardia são chamados pela equipe da SpringSource de lazy-initialized beans.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1271-1277 | Adicionado: quinta-feira, 24 de outubro de 2019 17:38:44
+
+Por padrão o Spring oferece os seguintes tipos de expressão: • annotation: no parâmetro expression deverá estar presente o nome completo da anotação de identificação de beans (estereótipo) que será incluída no filtro. • regex: passamos uma expressão regular que identifique o tipo de classe que entrará na filtragem. • assignable: define qual a classe base ou interface implementada pelas classes anotadas que deverá ser incluída no filtro. • aspectj: uma expressão no formato AspectJ para identificar os componentes. • custom: é possível implementar filtros customizados na varredura do classpath, que são basicamente classes que implementem a interface org.springframework.core.type.TypeFilter.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1298-1302 | Adicionado: quinta-feira, 24 de outubro de 2019 17:41:36
+
+Dado que as anotações são uma evolução do conceito de autowiring apresentado na seção anterior, o problema da ambiguidade de configuração precisa ser tratado. A solução no nosso caso se dá através da adoção de qualificadores, que servem para fornecer uma melhor identificação aos nossos beans. Usamos a anotação @Qualifier para guiar o container na seleção de qual dependência deverá ser injetada em determinado atributo ou parâmetro de construtor ou método definido em um bean,
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 3748-3749 | Adicionado: domingo, 27 de outubro de 2019 18:09:18
+
+Hoje a religião é, muitas vezes, considerada uma fonte de discriminação, desavença e desunião. Mas, na verdade, a religião foi o terceiro maior unificador da humanidade, junto com o dinheiro e os impérios.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1798-1799 | Adicionado: segunda-feira, 28 de outubro de 2019 19:17:06
+
+Concluindo com um resumão conceitual Vimos como funciona o mecanismo de AOP implementado pelo Spring.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1873-1876 | Adicionado: terça-feira, 29 de outubro de 2019 19:13:49
+
+A base para tudo: MVC Atualmente o padrão de projeto mais popular adotado pelos frameworks de desenvolvimento de aplicações web, trata-se de uma estratégia que nos permite isolar completamente - ao menos em teoria - as camadas de negócio (Modelo) e Visualização através da inclusão de uma intermediária: o Controlador. A compreensão deste pa-drão se tornará mais clara conforme descrevemos estas camadas.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1886 | Adicionado: terça-feira, 29 de outubro de 2019 19:15:59
+
+
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 1900-1901 | Adicionado: terça-feira, 29 de outubro de 2019 19:20:34
+
+Durante esse caminho ocorrem cinco eventos 133 
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 3986-3988 | Adicionado: sábado, 2 de novembro de 2019 18:45:04
+
+Como pode um monoteísta aderir a tal crença dualista (que, aliás, não é encontrada em lugar nenhum no Velho Testamento)? Logicamente, é impossível. Ou você acredita em um único Deus onipotente ou você acredita em duas forças opostas, nenhuma das quais é onipotente. Porém, os humanos têm uma capacidade incrível de acreditar em contradições.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 4096-4098 | Adicionado: domingo, 3 de novembro de 2019 16:24:54
+
+Se uma religião é um sistema de normas e valores humanos que se baseia na crença de uma ordem sobre-humana, então o comunismo soviético é uma religião tanto quanto o islamismo.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 4403-4404 | Adicionado: sábado, 9 de novembro de 2019 19:39:28
+
+(Preste atenção nesses números: a população humana aumentou 14 vezes; a produção, 240 vezes; e o consumo de energia, 115 vezes.)
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 2985-2986 | Adicionado: segunda-feira, 11 de novembro de 2019 18:51:37
+
+Toda transação deve satisfazer quatro condições que formam o acrônimo ACID:
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 3003-3004 | Adicionado: segunda-feira, 11 de novembro de 2019 18:54:37
+
+O suporte a transações declarativas do Spring tem como inspiração o CMT (Container Management Transactions) da plataforma Java EE.
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Sua nota ou posição 3004 | Adicionado: segunda-feira, 11 de novembro de 2019 18:54:53
+
+Transações 
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 3040-3042 | Adicionado: segunda-feira, 11 de novembro de 2019 19:02:10
+
+ISOLATION_DEFAULT: a transação adotará o comportamento padrão da base de dados. É o que fornece maior portabilidade de código, porém requer que a equipe conheça bem o banco de dados com o qual está trabalhando, visto que o comportamento padrão varia bastante de fornecedor para fornecedor;
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Sua nota ou posição 3041 | Adicionado: segunda-feira, 11 de novembro de 2019 19:02:35
+
+Importa isolamento de transação 
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 3174-3175 | Adicionado: segunda-feira, 11 de novembro de 2019 19:15:55
+
+Caso queira se aprofundar em mecanismos de transação em geral, recomendo a leitura do livro Java Transaction Design Strategies, de Mark Richards [13]
+==========
+Vire-o-jogo-com-spring-framework-Casa-do-Codigo (Unknown)
+- Seu destaque ou posição 3177-3180 | Adicionado: terça-feira, 12 de novembro de 2019 19:20:42
+
+O Spring Security é um framework de controle de acesso, que nos permite definir de forma declarativa quem acessará o quê em nossos sistemas. Muitos o descrevem como um framework de segurança, mas esta é uma definição muito imprecisa e que pode levar desenvolvedores à falsa impressão de que com ele conseguiríamos cons-truir projetos invulneráveis a ataques, o que não é verdade.
+==========
+D:\wwwroot\cleverpdf-web\1214402\livrosdeam.epub  
+- Seu destaque ou posição 67-68 | Adicionado: segunda-feira, 18 de novembro de 2019 18:49:17
+
+Começava a era da arquitetura orientada a serviços, conhecida como SOA,
+==========
+D:\wwwroot\cleverpdf-web\1214402\livrosdeam.epub  
+- Sua nota ou posição 68 | Adicionado: segunda-feira, 18 de novembro de 2019 18:49:51
+
+O que é SOA
+==========
+D:\wwwroot\cleverpdf-web\1214402\livrosdeam.epub  
+- Seu destaque ou posição 176-177 | Adicionado: segunda-feira, 18 de novembro de 2019 19:03:57
+
+http://docs.spring.io/spring- boot/docs/current/reference/html/common-application- properties.html
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 5548-5550 | Adicionado: domingo, 24 de novembro de 2019 18:03:31
+
+O que permite que os bancos – e toda a economia – sobrevivam e floresçam é nossa confiança no futuro. Essa confiança é a única garantia para a maior parte do dinheiro do mundo.
+==========
+Sapiens (Harari, Yuval Noah)
+- Seu destaque ou posição 5548-5550 | Adicionado: domingo, 24 de novembro de 2019 18:03:39
+
+O que permite que os bancos – e toda a economia – sobrevivam e floresçam é nossa confiança no futuro. Essa confiança é a única garantia para a maior parte do dinheiro do mundo.
+==========
+D:\wwwroot\cleverpdf-web\1359747\JPA Eficaz.epub  
+- Seu destaque ou posição 1434-1438 | Adicionado: terça-feira, 17 de dezembro de 2019 18:34:28
+
+CriteriaBuilder é utilizado para criar o CriteriaQuery juntamente suas condições ( equals, greaterThan etc.). A CriteriaQuery é utilizada para definir as condições relacionadas a um nível mais alto como: order by , having, distinct. O Root é utilizado como o caminho a ser percorrido pela consulta, ou seja, será sempre uma entidade que definirá quais os atributos relacio- nados a uma consulta. No exemplo, o Root foi definido como Cachorro.class , desse modo teríamos acesso a todos os relacionamentos a começar da entity
+==========
+D:\wwwroot\cleverpdf-web\1359747\JPA Eficaz.epub  
+- Sua nota ou posição 1438 | Adicionado: terça-feira, 17 de dezembro de 2019 18:34:43
+
+Criteria
+==========
+D:\wwwroot\cleverpdf-web\1359741\Introdução à Arquitetura e Design de Software - Casa do Codigo.epub  
+- Seu destaque ou posição 188-189 | Adicionado: terça-feira, 7 de janeiro de 2020 17:33:57
+
+Java é uma completa plataforma de desenvolvimento e execução. Esta plataforma é composta de três pilares: a máquina virtual Java (JVM), um grande conjunto de APIs e a linguagem Java.
+==========
+D:\wwwroot\cleverpdf-web\1359741\Introdução à Arquitetura e Design de Software - Casa do Codigo.epub  
+- Sua nota ou posição 189 | Adicionado: terça-feira, 7 de janeiro de 2020 17:34:32
+
+Definição Java
+==========
+D:\wwwroot\cleverpdf-web\1969628\Arquitetura Sistemas Software.epub  
+- Seu destaque ou posição 482-482 | Adicionado: quarta-feira, 22 de janeiro de 2020 18:11:54
+
+SoftwareArchitectureinPractice(Bass
+==========
+D:\wwwroot\cleverpdf-web\1969628\Arquitetura Sistemas Software.epub  
+- Seu destaque ou posição 833-834 | Adicionado: terça-feira, 28 de janeiro de 2020 18:35:06
+
+introdução ao tema é encontrado no livro Building Microservices (Newman, 2015) .
+==========
+D:\wwwroot\cleverpdf-web\1969628\Arquitetura Sistemas Software.epub  
+- Sua nota ou posição 834 | Adicionado: terça-feira, 28 de janeiro de 2020 18:35:29
+
+Livro microservicos
+==========
+D:\wwwroot\cleverpdf-web\2162577\Spring MVC Domine o principal framework web J.epub  
+- Seu destaque ou posição 224-226 | Adicionado: quinta-feira, 13 de fevereiro de 2020 18:54:12
+
+A annotation @Bean indica para o Spring que o retorno desse método deve ser registrado como um objeto gerenciado pelo container. Em geral, no Spring, esses objetos são chamados de Beans. Para deixar tudo cor- reto, vamos apenas alterar o retorno do método index, do nosso primeiro controller.
+==========
+D:\wwwroot\cleverpdf-web\2162577\Spring MVC Domine o principal framework web J.epub  
+- Sua nota ou posição 226 | Adicionado: quinta-feira, 13 de fevereiro de 2020 18:54:20
+
+Bean
+==========
+D:\wwwroot\cleverpdf-web\2162577\Spring MVC Domine o principal framework web J.epub  
+- Seu destaque ou posição 360-360 | Adicionado: segunda-feira, 17 de fevereiro de 2020 18:16:08
+
+atributo em questão vai ser salvo como Clob
+==========
+D:\wwwroot\cleverpdf-web\2162577\Spring MVC Domine o principal framework web J.epub  
+- Seu destaque ou posição 382-382 | Adicionado: segunda-feira, 17 de fevereiro de 2020 18:18:04
+
+O módulo de ORM do Spring suporta ainda, nativamente, o EclipseLink e a OpenJPA.
+==========
+O Arqueiro (Bernard Cornwell)
+- Seu destaque ou posição 51-51 | Adicionado: domingo, 8 de março de 2020 11:36:35
+
+protegidos à noite pelo próprio Hook,
+==========
+O Arqueiro (Bernard Cornwell)
+- Seu destaque ou posição 51-52 | Adicionado: domingo, 8 de março de 2020 11:36:40
+
+protegidos à noite pelo próprio Hook, uma
+==========
+O Arqueiro (Bernard Cornwell)
+- Seu destaque ou posição 59-60 | Adicionado: domingo, 8 de março de 2020 11:39:29
+
+consagrava os Sacramentos da Páscoa e depois poisava
+==========
+O Arqueiro (Bernard Cornwell)
+- Seu destaque ou posição 77-77 | Adicionado: domingo, 8 de março de 2020 11:43:59
+
+talvez um santo, talvez um nobre de estirpe,
+==========
+D:\wwwroot\cleverpdf-web\2274295\PostgreSQL - Banco de dados para aplicações web modernas.epub  
+- Seu destaque ou posição 347-347 | Adicionado: terça-feira, 10 de março de 2020 17:12:01
+
+"Não se preocupe se não funcionar direito. Se tudo funcionasse, você estaria desempregado".
+==========
+D:\wwwroot\cleverpdf-web\2274295\PostgreSQL - Banco de dados para aplicações web modernas.epub  
+- Seu destaque ou posição 1056-1057 | Adicionado: quarta-feira, 11 de março de 2020 18:20:49
+
+"Nós somos aquilo que fazemos com frequência. Excelê ncia, então, não é um ato, mas um hábito".
+==========
+D:\wwwroot\cleverpdf-web\2432137\sample_ch19_Walls_Spring-iA_September25.epub  
+- Seu destaque ou posição 19-20 | Adicionado: quinta-feira, 19 de março de 2020 17:55:40
+
+it’s action for action’s sake. Now imagine developing applications and putting a lot of effort
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 352-354 | Adicionado: sexta-feira, 20 de março de 2020 18:21:25
+
+You see, autoconfiguration is much like the wind. You can see the effects of it, but there’s no code that I can show you and say “Look! Here’s an example of autocon- figuration!” Stuff happens, components are enabled, and functionality is provided without writing code. It’s this lack of code that’s essential to autoconfiguration and what makes it so wonderful.
+==========
+O Arqueiro (Bernard Cornwell)
+- Seu destaque ou posição 320-321 | Adicionado: sábado, 21 de março de 2020 18:27:31
+
+Porque alguém começara a ripostar.
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 464-465 | Adicionado: segunda-feira, 23 de março de 2020 17:54:04
+
+It provides a Maven goal that enables you to run the application using Maven. You’ll try out this goal in section 1.3.4.
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 464-465 | Adicionado: segunda-feira, 23 de março de 2020 17:54:12
+
+It provides a Maven goal that enables you to run the application using
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 464-465 | Adicionado: segunda-feira, 23 de março de 2020 17:54:19
+
+It provides a Maven goal that enables you to run the application using Maven. You’ll try out this goal in section 1.3.4.
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 555-556 | Adicionado: terça-feira, 24 de março de 2020 18:21:43
+
+render the homepage, you’re almost ready
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 977-977 | Adicionado: sexta-feira, 27 de março de 2020 17:52:21
+
+validation rules. But that would be cumbersome
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 1033-1033 | Adicionado: sexta-feira, 27 de março de 2020 18:04:07
+
+allowed
+==========
+O arqueiro - A busca do Graal - vol. 1 (Cornwell, Bernard)
+- Seu destaque ou posição 1377-1377 | Adicionado: sexta-feira, 3 de abril de 2020 18:07:13
+
+Cerveja e vinho, Deus sabe, são grandes causas de pecado, mas fazem com que ele tenha vida curta.
+==========
+O arqueiro - A busca do Graal - vol. 1 (Cornwell, Bernard)
+- Seu destaque ou posição 2448-2448 | Adicionado: sexta-feira, 10 de abril de 2020 18:18:10
+
+Em seu lado inferior, o pilar tinha um lúgubre
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 342-343 | Adicionado: terça-feira, 14 de abril de 2020 18:21:07
+
+Se você acha que uma arquitetura boa é cara, experimente uma arquitetura ruim.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 420-421 | Adicionado: terça-feira, 14 de abril de 2020 18:24:56
+
+Eis o segredo: essa imutabilidade do código é a razão pela qual as regras da arquitetura de software são tão consistentes entre os diversos tipos de sistemas.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 477-480 | Adicionado: terça-feira, 14 de abril de 2020 18:32:39
+
+Quando você acerta o software, algo mágico acontece: você não precisa de hordas de programadores para mantê-lo funcionando. Você não precisa de uma torrente de documentos de requerimentos e imensos sistemas de acompanhamento de defeitos. Você não precisa de fazendas globais de cubículos nem de programação 24 horas por dia, sete dias por semana.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 1184-1185 | Adicionado: quinta-feira, 16 de abril de 2020 18:19:29
+
+OO é a habilidade de obter controle absoluto, através do uso do polimorfismo, sobre cada dependência de código fonte do sistema.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 2011-2012 | Adicionado: terça-feira, 21 de abril de 2020 17:56:28
+
+Reúna tudo que muda ao mesmo tempo pelas mesmas razões. Separe tudo que muda em tempos diferentes por razões diferentes.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 2039-2041 | Adicionado: terça-feira, 21 de abril de 2020 18:00:09
+
+Não dependa de coisas que você não precisa.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 2519-2519 | Adicionado: segunda-feira, 27 de abril de 2020 16:05:20
+
+De todos os aspectos de um sistema de software, a manutenção é o mais caro.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 2837-2839 | Adicionado: quarta-feira, 29 de abril de 2020 18:42:00
+
+Uma boa arquitetura deve possibilitar que o sistema nasça como monolito, seja implantado em um único arquivo e, então, cresça como um conjunto de unidades independentemente implantáveis, incluindo serviços independentes e/ou microsserviços.
+==========
+Arquitetura Limpa (Robert C. Martin) (Martin, Robert C.)
+- Seu destaque ou posição 3441 | Adicionado: quarta-feira, 6 de maio de 2020 19:10:59
+
+
+==========
+O arqueiro - A busca do Graal - vol. 1 (Cornwell, Bernard)
+- Seu destaque ou posição 5185-5185 | Adicionado: domingo, 24 de maio de 2020 17:43:42
+
+os
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 1955-1955 | Adicionado: sexta-feira, 29 de maio de 2020 17:59:36
+
+initially create the Order object that’s bound
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 2299-2299 | Adicionado: quarta-feira, 3 de junho de 2020 18:19:23
+
+Roughly a dozen years ago,
+==========
+D:\wwwroot\cleverpdf-web\2432215\Spring in Action, 5th Edition.epub  
+- Seu destaque ou posição 2299-2299 | Adicionado: quarta-feira, 3 de junho de 2020 18:19:37
+
+Roughly a dozen years ago,
+==========
+Microsserviços prontos para a produção (Fowler, Susan J.)
+- Seu destaque ou posição 425-426 | Adicionado: quinta-feira, 25 de junho de 2020 17:40:12
+
+O conceito básico de um microsserviço é simples: ele é uma pequena aplicação que executa uma única tarefa e o faz com eficiência.
+==========
+Homo Deus (Yuval Noah Harari)
+- Seu destaque ou posição 1127-1129 | Adicionado: sábado, 25 de julho de 2020 17:29:01
+
+Este é o melhor motivo para estudar história: não para poder predizer o futuro, e sim para se libertar do passado e imaginar destinos alternativos. É óbvio que não seria uma liberdade total — não há como evitar sermos moldados pelo passado —, mas alguma liberdade é melhor do que nenhuma.
+==========
+Como falar corretamente e sem inibições (Reinaldo Polito)
+- Seu destaque na página 45 | posição 801-802 | Adicionado: segunda-feira, 26 de outubro de 2020 19:05:46
+
+pois de nada adiantará dizer a verdade se as pessoas não acreditarem em suas palavras.
+==========
+Como falar corretamente e sem inibições (Reinaldo Polito)
+- Seu destaque na página 53 | posição 953-955 | Adicionado: quinta-feira, 29 de outubro de 2020 18:40:37
+
+Elimine o ããã, ããã nas pausas
+==========
+O andarilho - A busca do Graal - vol. 2 (Cornwell, Bernard)
+- Seu destaque na página 297 | posição 5094-5095 | Adicionado: segunda-feira, 2 de novembro de 2020 16:53:02
+
+O povo gosta de mistério. Ele não quer que nada seja explicado, porque quando as coisas são explicadas não resta esperança alguma.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 21 | posição 261-262 | Adicionado: terça-feira, 17 de novembro de 2020 17:28:42
+
+Se há uma única máxima que percorre todos os argumentos deste livro, é que em geral somos mais bem-sucedidos ao conectar ideias do que ao protegê-las.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 33 | posição 446-447 | Adicionado: quarta-feira, 18 de novembro de 2020 18:38:00
+
+Boas ideias não surgem do nada; são construídas a partir de um grupo de partes existentes, cuja combinação se expande (e, às vezes, se contrai) ao longo do tempo.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 37 | posição 508-509 | Adicionado: quarta-feira, 18 de novembro de 2020 18:47:40
+
+um fiasco espetacular, porque nos primórdios da web um site para compartilhamento de vídeos não estava no seu possível adjacente. Em primeiro lugar, a grande maioria dos usuários
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 54 | posição 726-728 | Adicionado: sexta-feira, 20 de novembro de 2020 15:54:47
+
+Não se trata de sabedoria da multidão, mas de sabedoria de alguém na multidão. A rede, ela própria, não é inteligente; os indivíduos é que ficam mais inteligentes por estarem conectados a ela.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 73 | posição 1021-1022 | Adicionado: quarta-feira, 25 de novembro de 2020 17:44:43
+
+Por isso, parte do segredo de cultivar intuições é simples: anote tudo.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 116 | posição 1681-1682 | Adicionado: quarta-feira, 9 de dezembro de 2020 18:07:38
+
+O erro nos força a explorar.
+==========
+De onde vêm as boas ideias (Johnson, Steven)
+- Seu destaque na página 116 | posição 1681-1682 | Adicionado: quarta-feira, 9 de dezembro de 2020 18:07:54
+
+O acerto nos mantém no mesmo lugar. O erro nos força a explorar.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 141-141 | Adicionado: terça-feira, 19 de janeiro de 2021 14:16:57
+
+speakers constantly suppressing their laughter
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 396-397 | Adicionado: terça-feira, 19 de janeiro de 2021 18:45:37
+
+methods is that, unlike constructors, they have names.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 406-407 | Adicionado: terça-feira, 19 de janeiro de 2021 18:49:40
+
+A second advantage of static factory methods is that, unlike constructors, they are not required to create a new object each time they’re invoked.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 417-418 | Adicionado: terça-feira, 19 de janeiro de 2021 18:52:56
+
+third advantage of static factory methods is that, unlike constructors, they can return an object of any subtype of their return
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 425-425 | Adicionado: quarta-feira, 20 de janeiro de 2021 18:46:48
+
+static factory methods in one noninstantiable
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 426-427 | Adicionado: quarta-feira, 20 de janeiro de 2021 18:48:02
+
+The Collections Framework API is much smaller than it would have been had it exported forty-five separate public classes, one for each convenience implementation.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 435-435 | Adicionado: quarta-feira, 20 de janeiro de 2021 18:52:30
+
+an interface to be public. Java 9 allows
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 459-460 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:20:39
+
+return a richer service interface to clients than the one furnished
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 463-464 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:22:33
+
+The main limitation of providing only static factory methods is that classes without public or protected constructors cannot be subclassed.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 467-468 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:23:23
+
+A second shortcoming of static factory methods is that they are hard for programmers to find.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 501-501 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:27:26
+
+Consider a builder when faced with many constructor parameters
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 563-563 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:33:51
+
+a JavaBean may be in an inconsistent state partway through its construction.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 565-566 | Adicionado: quinta-feira, 21 de janeiro de 2021 18:34:47
+
+A related disadvantage is that the JavaBeans pattern precludes the possibility of making a class immutable
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 672-673 | Adicionado: segunda-feira, 25 de janeiro de 2021 18:45:55
+
+While the cost of creating this builder is unlikely to be noticeable in practice, it could be a problem in performance-critical situations.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 680-680 | Adicionado: segunda-feira, 25 de janeiro de 2021 18:51:54
+
+Enforce the singleton property with a private constructor or an enum type
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 693-694 | Adicionado: segunda-feira, 25 de janeiro de 2021 18:56:37
+
+a privileged client can invoke the private constructor reflectively (Item 65) with the aid of the
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 741-742 | Adicionado: terça-feira, 26 de janeiro de 2021 19:27:47
+
+so a class can be made noninstantiable by including a private constructor:
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 752-753 | Adicionado: terça-feira, 26 de janeiro de 2021 19:33:03
+
+explicitly or implicitly, and a subclass would have no accessible superclass constructor to invoke. Item 5: Prefer dependency
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 860-861 | Adicionado: terça-feira, 2 de fevereiro de 2021 18:12:44
+
+Autoboxing blurs but does not erase the distinction between primitive and boxed primitive types.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 928-929 | Adicionado: terça-feira, 2 de fevereiro de 2021 18:28:27
+
+Nulling out object references should be the exception rather than the norm.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 937-938 | Adicionado: terça-feira, 2 de fevereiro de 2021 18:30:30
+
+whenever a class manages its own memory, the programmer should be alert for memory leaks.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1147-1147 | Adicionado: segunda-feira, 8 de fevereiro de 2021 18:08:47
+
+Obey the general contract when overriding equals
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1223-1224 | Adicionado: segunda-feira, 8 de fevereiro de 2021 18:36:30
+
+Once you’ve violated the equals contract, you simply don’t know how other objects will behave when confronted
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1339-1340 | Adicionado: terça-feira, 9 de fevereiro de 2021 18:12:52
+
+Item 23, “Prefer class hierarchies to tagged
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1455-1456 | Adicionado: quarta-feira, 10 de fevereiro de 2021 17:00:22
+
+Always override hashCode when you override equals
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1554-1555 | Adicionado: quarta-feira, 10 de fevereiro de 2021 17:25:05
+
+Do not be tempted to exclude significant fields from the hash code computation to improve performance.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1561-1562 | Adicionado: quarta-feira, 10 de fevereiro de 2021 17:25:49
+
+Don’t provide a detailed specification for the value returned by hashCode, so clients can’t reasonably depend on it; this gives you the flexibility to change
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1699-1700 | Adicionado: segunda-feira, 22 de fevereiro de 2021 17:53:25
+
+If an object contains fields that refer to mutable objects, the simple clone implementation shown earlier can be disastrous.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1720-1720 | Adicionado: segunda-feira, 22 de fevereiro de 2021 17:55:27
+
+This situation could never occur as a result of calling the sole constructor in the Stack class.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1721-1721 | Adicionado: segunda-feira, 22 de fevereiro de 2021 17:55:58
+
+constructor; you must ensure that it does no harm
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1720-1721 | Adicionado: segunda-feira, 22 de fevereiro de 2021 17:56:21
+
+effect, the clone method functions as a constructor; you must ensure that it does no harm to the original object and that it
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 1720-1722 | Adicionado: segunda-feira, 22 de fevereiro de 2021 17:56:29
+
+In effect, the clone method functions as a constructor; you must ensure that it does no harm to the original object and that it properly establishes invariants on the
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2010-2011 | Adicionado: quarta-feira, 24 de fevereiro de 2021 18:12:34
+
+in building large systems because individual components may prove successful even if the system does not.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2041-2042 | Adicionado: quarta-feira, 24 de fevereiro de 2021 18:25:38
+
+If a method overrides a superclass method, it cannot have a more restrictive access level in the subclass than in the superclass
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2119-2120 | Adicionado: quinta-feira, 25 de fevereiro de 2021 18:03:37
+
+code that uses it. While the client code is tied
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2224-2225 | Adicionado: segunda-feira, 1 de março de 2021 19:31:10
+
+Immutable objects make great building blocks for other objects,
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2287-2288 | Adicionado: segunda-feira, 1 de março de 2021 19:41:51
+
+Classes should be immutable unless there’s a very good reason to make them mutable.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2287-2288 | Adicionado: segunda-feira, 1 de março de 2021 19:42:04
+
+Classes should be immutable unless there’s a very good reason to make them mutable.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2340-2342 | Adicionado: segunda-feira, 8 de março de 2021 18:31:08
+
+Internally, HashSet’s addAll method is implemented on top of its add method, although HashSet, quite reasonably, does not document this implementation detail.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2340-2342 | Adicionado: segunda-feira, 8 de março de 2021 18:31:29
+
+Internally, HashSet’s addAll method is implemented on top of its add method, although HashSet, quite reasonably, does not document this implementation detail.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2453-2453 | Adicionado: quarta-feira, 10 de março de 2021 18:32:53
+
+Design and document for inheritance or else prohibit
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2453-2453 | Adicionado: quarta-feira, 10 de março de 2021 18:33:08
+
+Design and document for inheritance or else prohibit
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2453-2453 | Adicionado: quarta-feira, 10 de março de 2021 18:33:15
+
+Design and document for inheritance or else prohibit it
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2598-2599 | Adicionado: quinta-feira, 11 de março de 2021 18:29:17
+
+Interfaces allow for the construction of nonhierarchical type frameworks.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2710-2711 | Adicionado: segunda-feira, 15 de março de 2021 19:51:22
+
+But it is not always possible to write a default method that maintains all invariants of every conceivable implementation.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2747-2747 | Adicionado: segunda-feira, 15 de março de 2021 20:02:14
+
+it is still of the utmost importance to design interfaces with great care.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2753-2754 | Adicionado: segunda-feira, 15 de março de 2021 20:03:27
+
+While it may be possible to correct some interface flaws after an interface is released, you cannot count on it.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2767-2767 | Adicionado: terça-feira, 16 de março de 2021 19:11:39
+
+The constant interface pattern is a poor
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2798-2799 | Adicionado: terça-feira, 16 de março de 2021 19:16:43
+
+In summary, interfaces should be used only to define types. They should not be used merely to export constants.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2800-2800 | Adicionado: terça-feira, 16 de março de 2021 19:17:59
+
+Prefer class hierarchies to tagged classes
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2866-2867 | Adicionado: quarta-feira, 17 de março de 2021 19:26:30
+
+Favor static member classes over nonstatic
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2880-2880 | Adicionado: quarta-feira, 17 de março de 2021 19:31:10
+
+enclosing instance of its containing class.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2880-2882 | Adicionado: quarta-feira, 17 de março de 2021 19:32:10
+
+enclosing instance of its containing class. Within instance methods of a nonstatic member class, you can invoke methods on the enclosing instance or obtain a reference to the enclosing instance using the qualified this construct
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2901-2902 | Adicionado: quarta-feira, 17 de março de 2021 19:37:57
+
+If you omit this modifier,
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2901-2902 | Adicionado: quarta-feira, 17 de março de 2021 19:38:17
+
+If you omit this modifier, each instance will have a hidden extraneous reference to its enclosing instance.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2903-2904 | Adicionado: quarta-feira, 17 de março de 2021 19:39:02
+
+More seriously, it can result in the enclosing instance being retained when it would otherwise be eligible for garbage collection (Item 7). The resulting memory leak can
+==========
+D:\wwwroot\cleverpdf-web\2253514\Este livro não vai te deixar rico.epub  
+- Seu destaque ou posição 422-422 | Adicionado: sexta-feira, 19 de março de 2021 15:29:40
+
+de repouso evolui para algo mais grave, impossibilitando o indivíduo de
+==========
+D:\wwwroot\cleverpdf-web\2253514\Este livro não vai te deixar rico.epub  
+- Seu destaque ou posição 644-644 | Adicionado: segunda-feira, 22 de março de 2021 18:48:34
+
+problemas em trabalhar de dez a doze horas por dia porque faço o que gosto”. Os
+==========
+D:\wwwroot\cleverpdf-web\2253514\Este livro não vai te deixar rico.epub  
+- Seu destaque ou posição 670-670 | Adicionado: segunda-feira, 22 de março de 2021 18:48:54
+
+
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2934-2934 | Adicionado: segunda-feira, 22 de março de 2021 18:50:06
+
+Limit source files to a single top-level class
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2977-2977 | Adicionado: segunda-feira, 22 de março de 2021 18:53:36
+
+Never put multiple top-level classes or interfaces in a single source file.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 2994-2994 | Adicionado: segunda-feira, 29 de março de 2021 18:27:03
+
+raw type, which is the name of the generic type used
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3030-3030 | Adicionado: segunda-feira, 29 de março de 2021 18:32:27
+
+(generic types without their type parameters),
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3030-3030 | Adicionado: segunda-feira, 29 de março de 2021 18:32:35
+
+(generic types without their type parameters),
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3041-3043 | Adicionado: segunda-feira, 29 de março de 2021 18:35:35
+
+As a consequence, you lose type safety if you use a raw type such as List, but not if you use a parameterized type such as List<Object>.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3163-3165 | Adicionado: terça-feira, 30 de março de 2021 18:22:31
+
+program will behave as you intended. If you can’t eliminate a warning, but you can prove that the code that provoked the warning is typesafe, then (and only then) suppress the warning with an @SuppressWarnings("unchecked") annotation.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3220-3220 | Adicionado: quarta-feira, 7 de abril de 2021 17:44:54
+
+4.7]. This means that arrays know and enforce
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3533-3534 | Adicionado: segunda-feira, 12 de abril de 2021 19:29:23
+
+Use bounded wildcards to increase API flexibility
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3709-3709 | Adicionado: terça-feira, 13 de abril de 2021 19:35:44
+
+Combine generics and varargs judiciously
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu marcador ou posição 10362 | Adicionado: quarta-feira, 14 de abril de 2021 18:23:02
+
+
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 3957-3958 | Adicionado: segunda-feira, 19 de abril de 2021 18:55:33
+
+Use enums instead of int constants
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4214-4214 | Adicionado: segunda-feira, 26 de abril de 2021 19:43:34
+
+It is not necessary that the set of constants in an enum type stay fixed for all time.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4215-4216 | Adicionado: segunda-feira, 26 de abril de 2021 19:47:00
+
+In summary, the advantages of enum types over int constants are compelling.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4235-4235 | Adicionado: terça-feira, 27 de abril de 2021 20:20:43
+
+is a simple solution to these problems. Never
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4235-4236 | Adicionado: terça-feira, 27 de abril de 2021 20:20:50
+
+Never derive a value associated with an enum from its ordinal; store it in an instance field instead:
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 128-129 | Adicionado: quarta-feira, 28 de abril de 2021 20:08:06
+
+computer program managed somehow to defeat
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4414-4414 | Adicionado: segunda-feira, 3 de maio de 2021 20:07:53
+
+material in this item. In summary,
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4418-4418 | Adicionado: segunda-feira, 3 de maio de 2021 20:08:22
+
+Emulate extensible enums with interfaces
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 225-225 | Adicionado: terça-feira, 4 de maio de 2021 20:22:39
+
+desert running tests on the team’s Humvee,staying
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 251-252 | Adicionado: terça-feira, 4 de maio de 2021 20:36:36
+
+system—which made improving it and reason
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 259-259 | Adicionado: terça-feira, 4 de maio de 2021 20:39:44
+
+2.1—that you might associate with steam
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 259-259 | Adicionado: terça-feira, 4 de maio de 2021 20:40:00
+
+you might associate with steam
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 261-261 | Adicionado: terça-feira, 4 de maio de 2021 20:41:08
+
+Valve to control fuel closes when speed is too high
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 275-275 | Adicionado: segunda-feira, 10 de maio de 2021 19:42:01
+
+more slowly than we want.So usually a couple
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 4424-4424 | Adicionado: terça-feira, 11 de maio de 2021 19:39:10
+
+compelling use case for extensible enumerated
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 344-344 | Adicionado: terça-feira, 11 de maio de 2021 19:47:12
+
+off in the worst cases.There might also be gaps
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 357-358 | Adicionado: terça-feira, 11 de maio de 2021 19:55:53
+
+position, even during a two-minute GPS outage,
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 5140-5141 | Adicionado: quinta-feira, 13 de maio de 2021 18:37:38
+
+Overusing streams makes programs hard to read and maintain.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 5258-5258 | Adicionado: segunda-feira, 17 de maio de 2021 19:33:23
+
+should be free of side-effects.
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 442-442 | Adicionado: segunda-feira, 17 de maio de 2021 20:20:01
+
+phy:treat autonomous navigation as a software problem.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 5806-5806 | Adicionado: quarta-feira, 19 de maio de 2021 19:17:19
+
+Don’t go overboard in providing convenience methods.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6198-6199 | Adicionado: segunda-feira, 24 de maio de 2021 20:19:58
+
+you should declare a method to return Optional<T> if it might not be able to return a result and clients will have to perform special processing if no result is returned.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6467-6468 | Adicionado: segunda-feira, 31 de maio de 2021 19:52:40
+
+“enhanced for statement”) solves all of these problems. It gets
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6479-6479 | Adicionado: segunda-feira, 31 de maio de 2021 19:54:25
+
+you spot the bug? enum Suit
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6658-6658 | Adicionado: segunda-feira, 31 de maio de 2021 20:18:30
+
+Prefer primitive types to boxed primitives
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6727-6728 | Adicionado: segunda-feira, 31 de maio de 2021 20:28:42
+
+Avoid strings where other types are more appropriate
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6789-6789 | Adicionado: segunda-feira, 31 de maio de 2021 20:29:52
+
+Beware the performance of string concatenation
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6952-6953 | Adicionado: segunda-feira, 7 de junho de 2021 19:56:26
+
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason—including blind stupidity.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6954-6955 | Adicionado: segunda-feira, 7 de junho de 2021 19:57:00
+
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6958-6958 | Adicionado: segunda-feira, 7 de junho de 2021 19:57:37
+
+Don’t do it yet—that is, not until you have a perfectly clear and unoptimized solution.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6962-6963 | Adicionado: segunda-feira, 7 de junho de 2021 19:59:13
+
+Strive to write good programs rather than fast ones.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 6969-6969 | Adicionado: segunda-feira, 7 de junho de 2021 20:08:46
+
+Strive to avoid design decisions that limit performance.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7017-7017 | Adicionado: segunda-feira, 7 de junho de 2021 20:15:21
+
+Adhere to generally accepted naming conventions
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7126-7127 | Adicionado: terça-feira, 8 de junho de 2021 19:44:03
+
+Placing code inside a try-catch block inhibits certain optimizations that JVM implementations might otherwise perform.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7128-7129 | Adicionado: terça-feira, 8 de junho de 2021 19:44:56
+
+The standard idiom for looping through an array doesn’t necessarily result in redundant checks. Many JVM implementations optimize them away.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7210-7211 | Adicionado: terça-feira, 8 de junho de 2021 20:04:07
+
+Avoid unnecessary use of checked exceptions
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7257-7257 | Adicionado: quarta-feira, 16 de junho de 2021 19:06:23
+
+Favor the use of standard exceptions
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7483-7484 | Adicionado: quinta-feira, 8 de julho de 2021 19:31:25
+
+An empty catch block defeats the purpose of exceptions, which is to force you to handle exceptional conditions.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7506-7506 | Adicionado: quinta-feira, 8 de julho de 2021 19:45:39
+
+Synchronize access to shared mutable data
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7616-7617 | Adicionado: quinta-feira, 8 de julho de 2021 19:54:52
+
+In summary, when multiple threads share mutable data, each thread that reads or writes the data must perform synchronization.
+==========
+Effective Java, Third Edition (Joshua Bloch)
+- Seu destaque ou posição 7624-7625 | Adicionado: segunda-feira, 12 de julho de 2021 18:13:20
+
+To avoid liveness and safety failures, never cede control to the client within a synchronized method
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 497-497 | Adicionado: quarta-feira, 25 de agosto de 2021 19:21:51
+
+customers leaving in droves and managers breathing
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 595-595 | Adicionado: quarta-feira, 8 de setembro de 2021 19:36:29
+
+I know of one company that, in the late 80s, wrote a killer app.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 597-599 | Adicionado: quarta-feira, 8 de setembro de 2021 19:38:27
+
+The company went out of business a short time after that. Two decades later I met one of the early employees
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 603-603 | Adicionado: quarta-feira, 8 de setembro de 2021 19:41:09
+
+slog through a morass of tangled brambles and hidden pitfalls.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 610-611 | Adicionado: quarta-feira, 8 de setembro de 2021 19:44:58
+
+LeBlanc’s law: Later equals never.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 613-614 | Adicionado: quarta-feira, 8 de setembro de 2021 19:47:51
+
+been slowed down by messy code.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 635-635 | Adicionado: segunda-feira, 13 de setembro de 2021 21:02:56
+
+it’s a matter of professional survival.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 637-638 | Adicionado: segunda-feira, 13 de setembro de 2021 21:03:57
+
+These symptoms are all too common. Why does this happen to
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 642-642 | Adicionado: segunda-feira, 13 de setembro de 2021 21:08:01
+
+Don’t they bear some of the blame?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 641-642 | Adicionado: segunda-feira, 13 de setembro de 2021 21:08:18
+
+This may be a bitter pill to swallow. How could this mess be our fault? What about the requirements? What about the schedule? What about the stupid managers and the useless marketing types? Don’t they bear some of the blame?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 639-642 | Adicionado: segunda-feira, 13 de setembro de 2021 21:08:42
+
+We blather about stupid managers and intolerant customers and useless marketing types and telephone sanitizers. But the fault, dear Dilbert, is not in our stars, but in ourselves. We are unprofessional. This may be a bitter pill to swallow. How could this mess be our fault? What about the requirements? What about the schedule? What about the stupid managers and the useless marketing types? Don’t they bear some of the blame?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 656-656 | Adicionado: quarta-feira, 15 de setembro de 2021 19:26:31
+
+they don’t take the time
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 656-656 | Adicionado: quarta-feira, 15 de setembro de 2021 19:26:36
+
+they don’t take the time to go fast!
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 657-657 | Adicionado: quarta-feira, 15 de setembro de 2021 19:27:12
+
+You will not make the deadline by making the mess.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 693-693 | Adicionado: quarta-feira, 15 de setembro de 2021 19:49:42
+
+Bad code tries to do too much,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 694-694 | Adicionado: quarta-feira, 15 de setembro de 2021 19:50:47
+
+entirely undistracted, and unpolluted, by the surrounding details.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 699-700 | Adicionado: quarta-feira, 15 de setembro de 2021 19:56:41
+
+Think back on a really good book that you’ve read.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 700-701 | Adicionado: quarta-feira, 15 de setembro de 2021 19:57:06
+
+It was like watching a movie, wasn’t it?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 702-702 | Adicionado: quarta-feira, 15 de setembro de 2021 19:57:46
+
+literary metaphor is not a bad one.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 706-707 | Adicionado: quarta-feira, 15 de setembro de 2021 20:00:19
+
+Despite this seeming juxtaposition of meaning,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 706-707 | Adicionado: quarta-feira, 15 de setembro de 2021 20:00:44
+
+Despite this seeming juxtaposition of meaning, the words carry a powerful message.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 707-708 | Adicionado: quarta-feira, 15 de setembro de 2021 20:01:00
+
+Our code should be matter-of-fact as opposed to speculative. It should contain only what is necessary. Our readers should perceive us to have been decisive.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 714-715 | Adicionado: quinta-feira, 16 de setembro de 2021 20:09:18
+
+seem obvious, but it cannot be overemphasized.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 727-727 | Adicionado: quinta-feira, 16 de setembro de 2021 20:20:36
+
+by someone who cares deeply
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 747-747 | Adicionado: quinta-feira, 16 de setembro de 2021 20:29:36
+
+other thing that I’m aware
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 754-754 | Adicionado: quinta-feira, 16 de setembro de 2021 20:34:18
+
+can go forward quickly while preserving my ability to change
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 754-754 | Adicionado: quinta-feira, 16 de setembro de 2021 20:34:23
+
+I can go forward quickly while preserving my ability to change later.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 795-795 | Adicionado: terça-feira, 21 de setembro de 2021 20:18:47
+
+other masters that have just as much claim
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 795-796 | Adicionado: terça-feira, 21 de setembro de 2021 20:19:11
+
+to learn from them as well. Indeed,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 816-816 | Adicionado: terça-feira, 21 de setembro de 2021 20:25:50
+
+so making it easy to read actually makes it easier to write.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 816-816 | Adicionado: terça-feira, 21 de setembro de 2021 20:26:08
+
+so making it easy to read actually makes it easier to write.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 815-816 | Adicionado: terça-feira, 21 de setembro de 2021 20:26:17
+
+Of course there’s no way to write code without reading it, so making it easy to read actually makes it easier to write.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 822-822 | Adicionado: terça-feira, 21 de setembro de 2021 20:28:14
+
+Leave the campground cleaner than you found it.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 826-827 | Adicionado: terça-feira, 21 de setembro de 2021 20:29:59
+
+isn’t continuous improvement an intrinsic part of professionalism?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 864-865 | Adicionado: quarta-feira, 22 de setembro de 2021 20:14:10
+
+isn’t the simplicity of the code but the implicity
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 870-871 | Adicionado: quarta-feira, 22 de setembro de 2021 20:22:49
+
+been. Say that we’re working in a mine sweeper game.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 887-888 | Adicionado: segunda-feira, 27 de setembro de 2021 20:05:00
+
+The word list means something specific to programmers. If the container holding the accounts is not actually a List, it may lead to false
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 893-893 | Adicionado: segunda-feira, 27 de setembro de 2021 20:07:44
+
+automatic code completion. We write a few
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 896-896 | Adicionado: segunda-feira, 27 de setembro de 2021 20:09:43
+
+even the list of methods supplied by that class.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 908-908 | Adicionado: segunda-feira, 27 de setembro de 2021 20:23:45
+
+must be different, then they should also mean
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 914-914 | Adicionado: segunda-feira, 27 de setembro de 2021 20:25:28
+
+made the names different without making them mean anything different.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 944-944 | Adicionado: quinta-feira, 30 de setembro de 2021 19:23:39
+
+One might easily grep for
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1034-1034 | Adicionado: quinta-feira, 14 de outubro de 2021 19:45:06
+
+add would be a pun.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1051-1052 | Adicionado: segunda-feira, 18 de outubro de 2021 20:31:44
+
+Taken together it’s pretty clear that they form an address.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1058-1058 | Adicionado: segunda-feira, 18 de outubro de 2021 20:37:49
+
+When you first look at the method,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1099-1099 | Adicionado: quarta-feira, 20 de outubro de 2021 20:01:47
+
+Don’t let it stop you in your tracks.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1154-1154 | Adicionado: quarta-feira, 20 de outubro de 2021 20:11:02
+
+scads
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1333-1333 | Adicionado: terça-feira, 23 de novembro de 2021 19:23:02
+
+thought it was the expected? I have stumbled
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1337-1338 | Adicionado: terça-feira, 23 de novembro de 2021 19:28:19
+
+those arguments ought to be wrapped into a class
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1355-1356 | Adicionado: terça-feira, 23 de novembro de 2021 19:37:54
+
+This strongly mitigates the problem of having to remember the ordering of the arguments.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1374-1375 | Adicionado: terça-feira, 23 de novembro de 2021 19:53:10
+
+though that certainly violates “Do one thing.”
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1376-1376 | Adicionado: terça-feira, 23 de novembro de 2021 19:55:05
+
+programming for more than a few years, I’m
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1376-1377 | Adicionado: terça-feira, 23 de novembro de 2021 19:55:08
+
+I’m sure you’ve done a double-take on an argument that was actually an output rather than an input. For example:
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1401-1401 | Adicionado: quinta-feira, 25 de novembro de 2021 17:11:23
+
+as expressions in the predicates of if statements.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1421-1422 | Adicionado: segunda-feira, 29 de novembro de 2021 17:33:47
+
+Functions should do one thing.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1429-1430 | Adicionado: segunda-feira, 29 de novembro de 2021 17:41:06
+
+and redeployed.11 This puts a negative pressure
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1456-1457 | Adicionado: segunda-feira, 29 de novembro de 2021 18:50:48
+
+so you wordsmith it and restructure it and refine it until it reads the way you want it to read.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1459-1459 | Adicionado: segunda-feira, 29 de novembro de 2021 18:52:28
+
+also have a suite of unit tests that cover every one of those clumsy lines of code.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1518-1519 | Adicionado: segunda-feira, 29 de novembro de 2021 19:02:43
+
+Nothing can be quite so helpful as a well-placed comment.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1522-1523 | Adicionado: segunda-feira, 29 de novembro de 2021 19:07:23
+
+The proper use of comments is to compensate for our failure to express ourself in code.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1540-1541 | Adicionado: segunda-feira, 29 de novembro de 2021 19:15:58
+
+They lay down old rules
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1543-1544 | Adicionado: segunda-feira, 29 de novembro de 2021 19:16:46
+
+Comments Do Not Make Up for Bad Code
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1622-1622 | Adicionado: segunda-feira, 29 de novembro de 2021 19:36:36
+
+It might be a request
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1661-1661 | Adicionado: segunda-feira, 29 de novembro de 2021 19:52:37
+
+is rather like a gladhanding used-car salesman
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1693-1693 | Adicionado: terça-feira, 30 de novembro de 2021 18:43:27
+
+could cause another programmer to blithely
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1811-1812 | Adicionado: terça-feira, 30 de novembro de 2021 20:29:57
+
+   /**     * Port on which fitnesse would
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1941-1941 | Adicionado: quinta-feira, 2 de dezembro de 2021 18:49:02
+
+Openness Between Concepts Nearly all code is read left to
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 1978-1978 | Adicionado: quinta-feira, 2 de dezembro de 2021 18:59:35
+
+Have you ever chased your tail through a class,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2008-2008 | Adicionado: segunda-feira, 6 de dezembro de 2021 15:10:18
+
+If you look about halfway down the listing,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2073-2074 | Adicionado: segunda-feira, 6 de dezembro de 2021 17:58:24
+
+Horizontal Openness and Density We use horizontal white
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2205-2205 | Adicionado: segunda-feira, 6 de dezembro de 2021 18:25:36
+
+The worst option is to blithely add getters and setters.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2208-2208 | Adicionado: segunda-feira, 6 de dezembro de 2021 18:27:11
+
+Data structure expose their data and have no meaningful functions.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2263-2263 | Adicionado: segunda-feira, 6 de dezembro de 2021 18:42:01
+
+Are these two snippets of code violations of the Law of Demeter?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2300-2301 | Adicionado: segunda-feira, 6 de dezembro de 2021 18:54:56
+
+The quasi-encapsulation of beans seems to make some OO purists feel better but usually provides no other benefit.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2345-2345 | Adicionado: terça-feira, 7 de dezembro de 2021 19:41:09
+
+problem with these approaches is that they clutter
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2511-2511 | Adicionado: terça-feira, 14 de dezembro de 2021 18:46:18
+
+strive for broad applicability so they can work in
+==========
+Microsoft Word - A batalha do apocalipse.doc (EDUARDO SPOHR)
+- Seu destaque ou posição 4769-4769 | Adicionado: domingo, 2 de janeiro de 2022 14:20:11
+
+aquelas bandas, identificaram-nas como alvo
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2547-2547 | Adicionado: terça-feira, 11 de janeiro de 2022 19:40:28
+
+sessions trying to figure out whether
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2548-2548 | Adicionado: terça-feira, 11 de janeiro de 2022 19:41:12
+
+Doing both at the same time is doubly
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2610-2610 | Adicionado: terça-feira, 11 de janeiro de 2022 19:59:17
+
+(which was out of our control and undefined).
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2621-2621 | Adicionado: terça-feira, 11 de janeiro de 2022 20:05:14
+
+We should avoid letting too much of our code know about
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2656-2657 | Adicionado: terça-feira, 11 de janeiro de 2022 20:23:02
+
+You may not write production code until you have written a failing unit test.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2658-2659 | Adicionado: terça-feira, 11 de janeiro de 2022 20:23:56
+
+You may not write more production code than is sufficient to pass the currently failing test.
+==========
+D:\wwwroot\cleverpdf-web\2990390\How Smart .epub  
+- Seu destaque ou posição 957-958 | Adicionado: quinta-feira, 13 de janeiro de 2022 19:37:04
+
+the surrounding environment.They then used
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 2697-2698 | Adicionado: quinta-feira, 13 de janeiro de 2022 19:53:25
+
+What makes a clean test? Three things. Readability,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3148-3149 | Adicionado: quarta-feira, 19 de janeiro de 2022 19:53:29
+
+Now our test can create a testable implementation
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3203-3204 | Adicionado: quarta-feira, 19 de janeiro de 2022 20:09:16
+
+Having both of these responsibilities means that the method is doing more than one thing, so we are breaking the Single Responsibility Principle in a small way.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3256-3257 | Adicionado: segunda-feira, 31 de janeiro de 2022 20:29:02
+
+Who would want such a road through their town?
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3262-3262 | Adicionado: segunda-feira, 31 de janeiro de 2022 20:30:37
+
+grow incrementally, ifwe maintain the proper separation of concerns.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3439-3439 | Adicionado: terça-feira, 1 de fevereiro de 2022 18:55:23
+
+lets us make informed choices with the best possible information.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3439-3440 | Adicionado: terça-feira, 1 de fevereiro de 2022 18:55:39
+
+decision made with suboptimal knowledge.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3443-3444 | Adicionado: terça-feira, 1 de fevereiro de 2022 18:56:20
+
+Standards Wisely, When They Add Demonstrable
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3447-3447 | Adicionado: terça-feira, 1 de fevereiro de 2022 18:57:35
+
+the EJB2 architecture because it was a standard,
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3468-3469 | Adicionado: terça-feira, 1 de fevereiro de 2022 19:03:01
+
+use the simplest thing that can possibly work.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3497-3498 | Adicionado: terça-feira, 1 de fevereiro de 2022 19:19:27
+
+Getting Clean via Emergent Design
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3570-3570 | Adicionado: terça-feira, 1 de fevereiro de 2022 19:50:29
+
+convoluted code. Many of us have produced some convoluted
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3572-3572 | Adicionado: terça-feira, 1 de fevereiro de 2022 19:51:09
+
+The majority of the cost
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3604-3605 | Adicionado: terça-feira, 1 de fevereiro de 2022 20:03:27
+
+“Objects are abstractions of processing. Threads are abstractions of schedule.”
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3684-3685 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:13:50
+
+Take data encapsulation to heart; severely limit the access of any data that may be shared.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3693-3694 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:16:14
+
+Each thread processes one client request, with all of its required data coming from an unshared source and stored as local variables.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3698-3699 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:18:18
+
+Attempt to partition data into independent subsets than can be operated on by independent threads, possibly in different processors.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3725-3726 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:25:59
+
+starvation and the accumulation of stale information.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3735-3735 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:28:07
+
+A philosopher cannot eat unless he is holding two forks.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3741-3742 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:30:02
+
+Learn these basic algorithms and understand their solutions.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3760-3760 | Adicionado: quinta-feira, 3 de fevereiro de 2022 19:40:27
+
+Writing Correct Shut-Down Code Is Hard
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 3991-3992 | Adicionado: quarta-feira, 9 de fevereiro de 2022 19:27:42
+
+remarkable how much code is required to flesh
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 4005-4006 | Adicionado: quarta-feira, 9 de fevereiro de 2022 19:34:20
+
+told us, was that we should write a rough
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 5146-5146 | Adicionado: quarta-feira, 16 de fevereiro de 2022 19:08:17
+
+And I am going to rip it to pieces.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 5523-5523 | Adicionado: quarta-feira, 16 de fevereiro de 2022 19:40:20
+
+Don’t ramble. Don’t state the obvious. Be brief.
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 5526-5526 | Adicionado: quarta-feira, 16 de fevereiro de 2022 19:47:50
+
+plans for it. That code sits
+==========
+The Robert C. Martin Clean Code Collection (Collection) (Martin, Robert C.)
+- Seu destaque ou posição 5564-5565 | Adicionado: quarta-feira, 16 de fevereiro de 2022 20:24:58
+
+Incorrect Behavior at the Boundaries
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 46-46 | Adicionado: quarta-feira, 9 de março de 2022 18:14:37
+
+will find plenty of practical advice to help you.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 199-199 | Adicionado: quarta-feira, 9 de março de 2022 18:33:59
+
+So it’s once again time to distill the essence of microservice
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 209-210 | Adicionado: quarta-feira, 9 de março de 2022 19:26:27
+
+From the outside, a single microservice is treated
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 213-213 | Adicionado: quarta-feira, 9 de março de 2022 19:28:38
+
+are entirely hidden from the outside world. This
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 220-221 | Adicionado: quarta-feira, 9 de março de 2022 19:31:57
+
+microservice exposes don’t change in a backward-incompatible
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 221-222 | Adicionado: quarta-feira, 9 de março de 2022 19:32:52
+
+Changes inside a microservice boundary (as shown in Figure 1-1) shouldn’t
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 239-239 | Adicionado: quarta-feira, 9 de março de 2022 19:44:38
+
+protocols (e.g., SOAP), vendor middleware,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 255-256 | Adicionado: quinta-feira, 10 de março de 2022 16:24:57
+
+ensure that you embrace the concept of independent deployability of your microservices.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 261-262 | Adicionado: quinta-feira, 10 de março de 2022 16:27:23
+
+things you have to get right that in turn have their own benefits.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 264-264 | Adicionado: quinta-feira, 10 de março de 2022 16:28:43
+
+boundaries in the first place.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 264-265 | Adicionado: quinta-feira, 10 de março de 2022 16:29:04
+
+Modeled Around a Business Domain
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 282-283 | Adicionado: quinta-feira, 10 de março de 2022 16:49:35
+
+We will come back to the interplay of domain-driven design and how it interacts with organizational design later in this chapter.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 287-287 | Adicionado: terça-feira, 15 de março de 2022 19:13:46
+
+functionality that can change freely
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 348-349 | Adicionado: terça-feira, 15 de março de 2022 19:43:18
+
+Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 348-349 | Adicionado: terça-feira, 15 de março de 2022 19:43:30
+
+Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 463-463 | Adicionado: quinta-feira, 17 de março de 2022 19:10:48
+
+As I touched on earlier,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 474-475 | Adicionado: quinta-feira, 17 de março de 2022 19:28:21
+
+ideas in more depth in Chapter 10, but at a bare
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 535-535 | Adicionado: sexta-feira, 18 de março de 2022 16:05:55
+
+tend to achieve these benefits to a greater degree primarily
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 540-540 | Adicionado: sexta-feira, 18 de março de 2022 16:09:19
+
+each job rather than having
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 600-600 | Adicionado: terça-feira, 22 de março de 2022 19:27:11
+
+narrowly about either our desktop website or our
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 614-615 | Adicionado: terça-feira, 22 de março de 2022 19:32:53
+
+Even with less taxing runtimes,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 642-642 | Adicionado: terça-feira, 22 de março de 2022 19:45:43
+
+microservices are a poor choice for an organization
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 710-710 | Adicionado: segunda-feira, 28 de março de 2022 19:09:42
+
+Whom They Might Not Work
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 710-710 | Adicionado: segunda-feira, 28 de março de 2022 19:09:54
+
+Whom They Might Not Work For
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 710-710 | Adicionado: segunda-feira, 28 de março de 2022 19:10:00
+
+Whom They Might Not Work For
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 812-812 | Adicionado: segunda-feira, 28 de março de 2022 19:49:55
+
+tapes to all and sundry,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 838-839 | Adicionado: segunda-feira, 28 de março de 2022 20:09:35
+
+The connections between modules are the assumptions which the modules
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 838-839 | Adicionado: segunda-feira, 28 de março de 2022 20:09:43
+
+The connections between modules are the assumptions which the modules
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 848-848 | Adicionado: quarta-feira, 30 de março de 2022 18:28:39
+
+“the code that changes together, stays together.”
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 851-851 | Adicionado: quarta-feira, 30 de março de 2022 18:31:55
+
+unrelated behavior to sit elsewhere.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 854-854 | Adicionado: quarta-feira, 30 de março de 2022 18:33:19
+
+risky—thus we want to avoid both.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 856-856 | Adicionado: quarta-feira, 30 de março de 2022 18:34:50
+
+the related functionality is spread across the system,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 856-857 | Adicionado: quarta-feira, 30 de março de 2022 18:35:13
+
+weak—whereas for our microservice architectures we’re aiming for strong cohesion.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 860-860 | Adicionado: quarta-feira, 30 de março de 2022 18:36:58
+
+What sorts of things cause tight
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 860-860 | Adicionado: quarta-feira, 30 de março de 2022 18:37:03
+
+What sorts of things cause tight coupling?
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 890-890 | Adicionado: quarta-feira, 30 de março de 2022 18:53:43
+
+PRIOR ART IN STRUCTURED PROGRAMMING
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 894-894 | Adicionado: quarta-feira, 30 de março de 2022 18:59:28
+
+When it comes to building on the work that came before,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 926-926 | Adicionado: quarta-feira, 30 de março de 2022 19:32:50
+
+BRIEF NOTE ON TEMPORAL COUPLING
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 947-948 | Adicionado: quarta-feira, 30 de março de 2022 19:39:54
+
+but also that it potentially needs to know how that one-step-removed microservice works.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 986-987 | Adicionado: quarta-feira, 30 de março de 2022 19:52:48
+
+but to have the Warehouse be totally unaware
+==========
+Microsoft Word - A batalha do apocalipse.doc (EDUARDO SPOHR)
+- Seu destaque ou posição 8644-8646 | Adicionado: domingo, 3 de abril de 2022 16:39:29
+
+A existência palpável de Deus é um alimento para homens e anjos. Muitos dele dependem para justificar seus fracassos, suplicar perdão, ou para animar uma vida miserável. E não os condeno. Não é fácil admitir que estamos sozinhos, que nosso sucesso depende apenas de nossos próprios esforços e de ninguém mais.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1035-1036 | Adicionado: terça-feira, 5 de abril de 2022 19:25:44
+
+Make sure you see a request that is sent to a microservice as something that the downstream microservice can reject if it is invalid.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1057-1058 | Adicionado: terça-feira, 5 de abril de 2022 19:35:36
+
+Content coupling describes a situation in which an upstream service reaches into the internals of a downstream service and changes its internal state.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1104-1104 | Adicionado: terça-feira, 5 de abril de 2022 19:53:15
+
+when working at a large, global bank.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1167-1168 | Adicionado: quinta-feira, 7 de abril de 2022 19:20:03
+
+From an implementation point of view, bounded contexts contain one
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1182-1182 | Adicionado: terça-feira, 12 de abril de 2022 18:51:49
+
+To be able to work
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1191-1192 | Adicionado: terça-feira, 12 de abril de 2022 18:57:10
+
+appear in more than one bounded context.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1202-1202 | Adicionado: terça-feira, 12 de abril de 2022 19:06:06
+
+Mapping Aggregates and Bounded Contexts to Microservices
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1205-1206 | Adicionado: terça-feira, 12 de abril de 2022 19:08:09
+
+Both can therefore work well as service boundaries.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1208-1209 | Adicionado: terça-feira, 12 de abril de 2022 19:13:13
+
+but we don’t want one aggregate to be managed by more than one microservice.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1209-1209 | Adicionado: terça-feira, 12 de abril de 2022 19:17:08
+
+Turtles all the way down
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1235-1236 | Adicionado: terça-feira, 12 de abril de 2022 19:27:56
+
+you end up with a shared, joined-up view of the world.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1236-1236 | Adicionado: terça-feira, 12 de abril de 2022 19:28:13
+
+It’s worth mentioning at this point
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1239-1240 | Adicionado: terça-feira, 12 de abril de 2022 19:31:01
+
+agreement. Firstly, get everyone in a room together.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1248-1248 | Adicionado: terça-feira, 12 de abril de 2022 19:34:42
+
+The main modeling tool is sticky notes to capture the various concepts, with differently colored notes representing different concepts.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1250-1251 | Adicionado: terça-feira, 12 de abril de 2022 19:35:26
+
+These represent things that happen in the system—they are the facts that you care about. “Order
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1250-1251 | Adicionado: terça-feira, 12 de abril de 2022 19:37:00
+
+system—they are the facts that you care about.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1305-1305 | Adicionado: terça-feira, 19 de abril de 2022 19:43:01
+
+into what we now call digital was just
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1311-1312 | Adicionado: terça-feira, 19 de abril de 2022 19:47:15
+
+“we don’t need to deal with the issues in there—that’s Mode
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1318-1319 | Adicionado: terça-feira, 19 de abril de 2022 19:50:55
+
+The nature of the data you hold and manage can drive you toward different forms of decomposition.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1337-1338 | Adicionado: terça-feira, 19 de abril de 2022 20:00:23
+
+Segregation of data is often driven by a variety of privacy and security concerns; we’ll come back to this topic and the example of PaymentCo in Chapter 11.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1337-1337 | Adicionado: terça-feira, 19 de abril de 2022 20:03:05
+
+Segregation of data is often driven by a variety of privacy and security concerns;
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1360-1360 | Adicionado: terça-feira, 19 de abril de 2022 20:11:10
+
+Does that mean we now have to rearchitect our software?
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1379-1379 | Adicionado: terça-feira, 19 de abril de 2022 20:17:16
+
+This led to the need
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1386-1387 | Adicionado: terça-feira, 19 de abril de 2022 20:18:44
+
+LAYERING INSIDE VERSUS LAYERING OUTSIDE
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1388-1388 | Adicionado: terça-feira, 19 de abril de 2022 20:19:09
+
+Layering can have its place, though.
+==========
+Programação Funcional: Uma introdução em Clojure (Gregório Melo)
+- Seu destaque ou posição 263-264 | Adicionado: quinta-feira, 28 de abril de 2022 20:25:36
+
+Vale repetir: apenas nil e false são considerados realmente falsos!
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 21-21 | Adicionado: domingo, 1 de maio de 2022 18:17:47
+
+Those measly o¤erings
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 24-25 | Adicionado: domingo, 1 de maio de 2022 18:18:58
+
+rooftop dish brings into my living room a feed from
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 24-25 | Adicionado: domingo, 1 de maio de 2022 18:19:01
+
+rooftop dish brings into my living room a feed from
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 63-63 | Adicionado: domingo, 1 de maio de 2022 18:41:41
+
+always in such a good
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 76-76 | Adicionado: domingo, 1 de maio de 2022 18:47:23
+
+chart of their gangs. Their leaders receive stipends.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 81-81 | Adicionado: domingo, 1 de maio de 2022 18:51:28
+
+“no longer tolerate lack of commitment on
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 81-82 | Adicionado: domingo, 1 de maio de 2022 18:51:33
+
+“no longer tolerate lack of commitment on the pitch.”
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 85-86 | Adicionado: domingo, 1 de maio de 2022 18:54:03
+
+warlord and gangster in Serb history, lives in a
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 95-96 | Adicionado: domingo, 1 de maio de 2022 18:58:59
+
+shoved into his fair share of lockers.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 96-96 | Adicionado: sábado, 7 de maio de 2022 13:45:12
+
+Perhaps to increase their credibility, the Bad Boys
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 114-114 | Adicionado: sábado, 7 de maio de 2022 13:54:33
+
+I’d beat the shit out of him.”
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 138-138 | Adicionado: sábado, 7 de maio de 2022 14:19:37
+
+an amalgam of disparate Yugoslavs bundled
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 152-153 | Adicionado: sábado, 7 de maio de 2022 14:26:40
+
+the world just as badly as they had been themselves.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 153-153 | Adicionado: sábado, 7 de maio de 2022 14:26:59
+
+Economic deprivation and displacement are obvi - ous explanations.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 156-156 | Adicionado: sábado, 7 de maio de 2022 14:27:43
+
+in groups to maim for maiming’s sake.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 177-178 | Adicionado: sábado, 14 de maio de 2022 17:30:16
+
+trouble seemed manageable by the standards of the European
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 212-212 | Adicionado: domingo, 15 de maio de 2022 16:09:22
+
+strange that the stadium should become so fervent.
+==========
+D:\wwwroot\cleverpdf-web\1479203\How Soccer.epub  
+- Seu destaque ou posição 212-212 | Adicionado: domingo, 15 de maio de 2022 16:09:31
+
+It wasn’t strange that the stadium should become so fervent.
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 22-23 | Adicionado: terça-feira, 17 de maio de 2022 20:17:31
+
+foot of a blackboard, metaphorically imploring
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 122-123 | Adicionado: terça-feira, 17 de maio de 2022 20:29:19
+
+conclude that this newfangled chainsaw is a fad,
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 132-132 | Adicionado: terça-feira, 17 de maio de 2022 20:36:16
+
+your language will change underneath
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 210-210 | Adicionado: quarta-feira, 18 de maio de 2022 20:19:57
+
+that the actual
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 262-263 | Adicionado: quarta-feira, 18 de maio de 2022 20:27:16
+
+reintroduced an arcane word, complect: to join by weaving
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 290-290 | Adicionado: quarta-feira, 18 de maio de 2022 20:41:09
+
+The hardware at the time just wasn’t up to the challenge.
+==========
+Functional Thinking (Neal Ford)
+- Seu destaque ou posição 723-724 | Adicionado: terça-feira, 24 de maio de 2022 20:28:42
+
+aren’t possible when the developer is elbow
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1397-1398 | Adicionado: quarta-feira, 15 de junho de 2022 19:51:47
+
+but if this causes you to extract a service that crosses
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1483-1483 | Adicionado: quarta-feira, 15 de junho de 2022 20:16:59
+
+you do a big-bang rewrite, the only thing you’re guaranteed of is a big bang.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1520-1520 | Adicionado: terça-feira, 21 de junho de 2022 19:54:19
+
+in the domain of CD tooling emboldened
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1531-1531 | Adicionado: terça-feira, 21 de junho de 2022 20:04:02
+
+Want to improve time to market?
+==========
+D:\wwwroot\cleverpdf-web\2038827\Programmin.epub  
+- Seu destaque ou posição 901-901 | Adicionado: segunda-feira, 18 de julho de 2022 20:32:41
+
+suited for large (or even infinite) sequences.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 1739-1740 | Adicionado: quarta-feira, 3 de agosto de 2022 20:10:20
+
+This can often lead you to want to rethink APIs.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 2837-2837 | Adicionado: terça-feira, 6 de setembro de 2022 08:27:44
+
+“order shipped” email to a customer with the ID 1234;
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 2837-2837 | Adicionado: terça-feira, 6 de setembro de 2022 08:27:49
+
+“order shipped” email to a customer with the ID 1234;
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 2887-2887 | Adicionado: terça-feira, 6 de setembro de 2022 08:44:52
+
+schema goes a long way toward making the boundaries
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 2923-2924 | Adicionado: terça-feira, 27 de setembro de 2022 08:20:32
+
+The open source Confluent Schema Registry supports JSON Schema,
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 3217-3217 | Adicionado: terça-feira, 4 de outubro de 2022 19:46:16
+
+that the behavior in the proxy bears no relation to any specific behavior of an individual microservice.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 3283-3283 | Adicionado: terça-feira, 18 de outubro de 2022 08:26:27
+
+and more. Often this type of functionality is fairly
+==========
+The plot against America (Philip Roth)
+- Seu destaque ou posição 97-98 | Adicionado: sexta-feira, 18 de novembro de 2022 15:24:04
+
+laborsaving devices, washing laundry, ironing shirts, mending socks, turning collars, sewing on buttons, mothproofing woolens, polishing furniture, sweeping and washing floors,
+==========
+The plot against America (Philip Roth)
+- Seu destaque ou posição 105-105 | Adicionado: sexta-feira, 18 de novembro de 2022 15:27:39
+
+I routinely floated through with my boyhood friends.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 4575-4575 | Adicionado: quinta-feira, 1 de dezembro de 2022 20:14:59
+
+the dividers themselves take up room too!
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 4745-4745 | Adicionado: quinta-feira, 29 de dezembro de 2022 10:40:18
+
+solutions work well, they work very well indeed.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 4862-4863 | Adicionado: segunda-feira, 2 de janeiro de 2023 20:43:05
+
+The second issue relates to data. Should these aggregates continue to use a shared database? On this issue, I am somewhat relaxed.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 4862-4867 | Adicionado: segunda-feira, 2 de janeiro de 2023 20:48:01
+
+The second issue relates to data. Should these aggregates continue to use a shared database? On this issue, I am somewhat relaxed. Assuming that the same team manages all these functions, and that conceptually it remains a single “service,” I’d be OK with them still using the same database, as Figure 8-20 shows. Over time, though, if the needs of each aggregate function diverge, I’d be inclined to look to separate out their data usage, as seen in Figure 8-21, especially if you start to see coupling in the data tier impair your ability to change them easily.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 5188-5188 | Adicionado: quinta-feira, 12 de janeiro de 2023 19:14:47
+
+(perhaps a beta test group),
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 5739-5739 | Adicionado: segunda-feira, 23 de janeiro de 2023 20:24:37
+
+Mean Time to Repair over Mean Time Between Failures?
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 7797-7798 | Adicionado: segunda-feira, 6 de março de 2023 19:44:31
+
+or to a time-out), the circuit breaker is blown.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 7903-7903 | Adicionado: terça-feira, 14 de março de 2023 08:57:44
+
+We really would still like
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 7928-7928 | Adicionado: terça-feira, 14 de março de 2023 09:06:19
+
+“guarantee,” they will tend to limit their liability!
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 7980-7980 | Adicionado: segunda-feira, 20 de março de 2023 18:33:03
+
+“Friends don’t let friends write their own crypto”
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 7986-7986 | Adicionado: segunda-feira, 20 de março de 2023 18:36:32
+
+can’t run over a network.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 8008-8008 | Adicionado: segunda-feira, 20 de março de 2023 18:49:40
+
+The mathematical proof behind the CAP theorem holds.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 8490-8491 | Adicionado: terça-feira, 11 de abril de 2023 19:13:14
+
+you’re trying to make will likely point you toward
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 9259-9260 | Adicionado: segunda-feira, 24 de abril de 2023 19:33:39
+
+along with information about whether
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 9491-9492 | Adicionado: segunda-feira, 24 de abril de 2023 20:25:31
+
+Adding manpower to a late software project makes it later.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 10090-10090 | Adicionado: quinta-feira, 27 de abril de 2023 18:44:49
+
+You keep using that word. I do not think it means what you think it means.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 10246-10247 | Adicionado: quinta-feira, 27 de abril de 2023 19:15:40
+
+No plan survives contact with the enemy.
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 10295-10295 | Adicionado: quinta-feira, 27 de abril de 2023 19:20:21
+
+Rules are for the obedience of fools
+==========
+Building Microservices (Newman, Sam;)
+- Seu destaque ou posição 10295-10295 | Adicionado: quinta-feira, 27 de abril de 2023 19:20:29
+
+Rules are for the obedience of fools and the guidance of wise men.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 496-496 | Adicionado: quinta-feira, 11 de maio de 2023 19:19:41
+
+and you’re not in this world to live
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 531-531 | Adicionado: quinta-feira, 11 de maio de 2023 19:23:14
+
+The greatest of all weaknesses is the fear of appearing weak.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 607-608 | Adicionado: quinta-feira, 18 de maio de 2023 18:38:43
+
+manage to come out pretty well.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 607-608 | Adicionado: quinta-feira, 18 de maio de 2023 18:39:43
+
+manage to come out pretty well.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 614-614 | Adicionado: quinta-feira, 18 de maio de 2023 18:40:43
+
+window gets broken. People start littering.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 634-634 | Adicionado: quinta-feira, 18 de maio de 2023 18:48:44
+
+Andy once had an acquaintance who was obscenely rich.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 668-668 | Adicionado: quinta-feira, 18 de maio de 2023 18:57:40
+
+   Stone Soup and Boiled Frogs  
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 739-739 | Adicionado: segunda-feira, 22 de maio de 2023 19:48:09
+
+Striving to better, oft we mar what’s well.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 813-813 | Adicionado: segunda-feira, 22 de maio de 2023 20:03:51
+
+programmers—right? The early bird might get the worm,
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 860-860 | Adicionado: segunda-feira, 22 de maio de 2023 20:11:39
+
+Maybe you need to brush up
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 976-977 | Adicionado: segunda-feira, 22 de maio de 2023 20:31:44
+
+I believe that it is better to be looked over than it is to be overlooked.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 1051-1051 | Adicionado: terça-feira, 23 de maio de 2023 19:48:34
+
+them far more forgiving of the occasional slip,
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 2249-2250 | Adicionado: quinta-feira, 1 de junho de 2023 20:03:29
+
+fuzzy, warm essays about the myriad
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 2276-2277 | Adicionado: segunda-feira, 12 de junho de 2023 19:24:34
+
+get bought out by their competitor.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 2276-2277 | Adicionado: segunda-feira, 12 de junho de 2023 19:24:41
+
+get bought out by their competitor.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 2433-2434 | Adicionado: terça-feira, 13 de junho de 2023 20:30:44
+
+TRACER BULLETS DON’T ALWAYS HIT THEIR TARGET
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 2519-2520 | Adicionado: quinta-feira, 15 de junho de 2023 18:22:31
+
+may be able to use dummy data where appropriate.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 3027-3027 | Adicionado: quinta-feira, 15 de junho de 2023 18:47:11
+
+you might want to deliver an estimate of “about six months.”
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 3029-3030 | Adicionado: quinta-feira, 15 de junho de 2023 18:47:50
+
+WHERE DO ESTIMATES COME FROM?
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 3037-3037 | Adicionado: quinta-feira, 15 de junho de 2023 18:50:31
+
+Often, the scope you choose
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 3040-3041 | Adicionado: quinta-feira, 15 de junho de 2023 18:51:16
+
+question being asked, build a rough-and-ready
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 3044-3044 | Adicionado: quinta-feira, 15 de junho de 2023 18:53:03
+
+underlying patterns and processes that weren’t apparent on the surface.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 4079-4079 | Adicionado: quarta-feira, 21 de junho de 2023 19:07:36
+
+axiom of life. Embrace it. Celebrate
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 4079-4079 | Adicionado: quarta-feira, 21 de junho de 2023 19:07:39
+
+axiom of life. Embrace it. Celebrate
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 4091-4091 | Adicionado: quarta-feira, 21 de junho de 2023 19:14:00
+
+take this a step further.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 4115-4115 | Adicionado: quarta-feira, 21 de junho de 2023 19:17:45
+
+Nothing astonishes men so much as common sense and plain dealing.
+==========
+Hunt_-Andrew_Thomas_-David-The-Pragmatic-Programmer_-your-journey-to-mastery-Addison-Wesley-Professi (Andrew Hunt)
+- Seu destaque ou posição 4737-4737 | Adicionado: segunda-feira, 26 de junho de 2023 20:35:30
+
+light a candle is to cast a shadow...
+==========
+On The Road_ Pe Na Estrada - Jack Kerouac (Jack Kerouac)
+- Seu destaque ou posição 1169-1170 | Adicionado: sábado, 22 de julho de 2023 15:00:33
+
+— Nunca o vi antes. — Bem, está aqui minha insígnia.
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 2510-2510 | Adicionado: terça-feira, 22 de agosto de 2023 18:18:06
+
+Thankfully, lazy seq elements need to be realized
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 2563-2563 | Adicionado: quarta-feira, 23 de agosto de 2023 20:06:24
+
+the original data structure. You’ll
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 4156-4156 | Adicionado: segunda-feira, 11 de setembro de 2023 20:26:33
+
+are hotter than a stolen tamale.
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 4660-4660 | Adicionado: terça-feira, 19 de setembro de 2023 19:56:06
+
+until the cows come home.
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 4677-4677 | Adicionado: terça-feira, 19 de setembro de 2023 19:58:51
+
+tilde
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 4787-4788 | Adicionado: quarta-feira, 27 de setembro de 2023 20:02:44
+
+Things to Watch Out For
+==========
+Clojure for the Brave and True (Daniel Higginbotham)
+- Seu destaque ou posição 4787-4788 | Adicionado: quarta-feira, 27 de setembro de 2023 20:03:18
+
+Things to Watch Out For
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 157-158 | Adicionado: quarta-feira, 17 de janeiro de 2024 19:26:51
+
+method dispatch performance. As a workaround,
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 163-163 | Adicionado: quarta-feira, 17 de janeiro de 2024 19:28:02
+
+subjected to the bad advice, but this case neatly
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 201-202 | Adicionado: quarta-feira, 17 de janeiro de 2024 19:34:04
+
+standard deviation and variance) are ill-
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 216-216 | Adicionado: quarta-feira, 17 de janeiro de 2024 19:39:45
+
+steady and staggering gains made
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 222-222 | Adicionado: quarta-feira, 17 de janeiro de 2024 19:40:54
+
+A measurement not clearly defined is worse than useless.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 363-364 | Adicionado: segunda-feira, 22 de janeiro de 2024 20:39:42
+
+displays a sharp drop in the allocation rate at around the 90 second mark.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 373-373 | Adicionado: segunda-feira, 22 de janeiro de 2024 20:41:26
+
+slowly degrades as the load is ramped up,
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 490-492 | Adicionado: quinta-feira, 25 de janeiro de 2024 16:53:46
+
+When the JVM executes code, the constant pool table is used to refer to values rather than having to rely on the layout of memory at runtime.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 610-610 | Adicionado: quinta-feira, 25 de janeiro de 2024 17:16:13
+
+What you do use, you couldn’t hand code any better.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 1516-1517 | Adicionado: quarta-feira, 14 de fevereiro de 2024 19:28:22
+
+You don’t have to be an engineer to be a racing driver, but you do have to have mechanical sympathy.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 2184-2185 | Adicionado: segunda-feira, 26 de fevereiro de 2024 19:51:27
+
+Fog of War (Action Bias)
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 2491-2492 | Adicionado: quarta-feira, 6 de março de 2024 20:01:43
+
+nanobenchmark test that does not feature disassembly/codegen analysis is not to be trusted. Period.
+==========
+Evans, Benjamin J._Gough, James_Newland, Chris - Optimizing Java_ practical techniques for improving JVM application performance-O'Reilly Media (2018) (Benjamin  J Evans)
+- Seu destaque ou posição 3052-3052 | Adicionado: quinta-feira, 7 de março de 2024 20:10:49
+
+“you must not fool yourself”
+==========
+Juremir Machado da Silva - Getúlio-BestBolso (2008) (Juremir Machado da Silva)
+- Seu destaque ou posição 885-886 | Adicionado: sexta-feira, 29 de março de 2024 17:30:51
+
+As pessoas imaginam que o poder dá a alguém uma espécie de felicidade permanente, de passaporte para o sucesso, de imunidade contra o mal, mas não é assim, quase nunca é assim. O poder entristece.
+==========
+Juremir Machado da Silva - Getúlio-BestBolso (2008) (Juremir Machado da Silva)
+- Seu destaque ou posição 994-996 | Adicionado: sexta-feira, 29 de março de 2024 17:57:58
+
+O poder exige uma certa poesia, Osvaldo. Como dizia meu velho pai, referindo-se ao nosso Vargas Neto: é poeta, mas, às vezes, fala a verdade. O poder, Osvaldo, às vezes, fala a verdade.
+==========
+Juremir Machado da Silva - Getúlio-BestBolso (2008) (Juremir Machado da Silva)
+- Seu destaque ou posição 5692-5695 | Adicionado: segunda-feira, 6 de maio de 2024 12:22:31
+
+Getúlio foi tudo e nada, o bem e o mal, a verdade e a mentira, a transparência e a obscuridade, o maquiavelismo e a ingenuidade, a vontade de poder e o poder sem vontade, o controle do tempo e o tempo ultrapassado. Foi tudo, foi tanto, que se deixou devorar pelos seus tentáculos e, escravo disso tudo, devorou junto uma massa de inocentes.
+==========
+Juremir Machado da Silva - Getúlio-BestBolso (2008) (Juremir Machado da Silva)
+- Seu destaque ou posição 5695-5700 | Adicionado: segunda-feira, 6 de maio de 2024 12:23:34
+
+Não posso aceitar isso. Getúlio fez uma revolução como homem e outra como cadáver. Só isso já faz dele uma lenda. Ouça bem o que eu lhe digo: Getúlio foi o possível contra o impossível, a modernidade contra o antigo regime, o realismo progressista contra o conservadorismo pragmático e imoral. Repasso-lhe a pergunta que ele me fez quando eu o questionei sobre as faces autoritárias de certos períodos dos seus dois governos. “O senhor não poderia ter feito o que fez numa democracia?”, perguntei. A resposta dele, noutra pergunta, é todo um manual de política realista: “O senhor acha?”
+==========
+Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani - Software Architecture_ The Hard Parts_ Modern Trade-Off Analyses for Distributed Architectures-O'Reilly Media (2021) (Neal Ford)
+- Seu destaque ou posição 432-432 | Adicionado: segunda-feira, 12 de agosto de 2024 20:55:02
+
+why is more important than how.
+==========
+Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani - Software Architecture_ The Hard Parts_ Modern Trade-Off Analyses for Distributed Architectures-O'Reilly Media (2021) (Neal Ford)
+- Seu destaque ou posição 611-612 | Adicionado: segunda-feira, 26 de agosto de 2024 21:03:57
+
+What is this impassioned conversation I barged in on?”
+==========
+Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani - Software Architecture_ The Hard Parts_ Modern Trade-Off Analyses for Distributed Architectures-O'Reilly Media (2021) (Neal Ford)
+- Seu destaque ou posição 1063-1065 | Adicionado: segunda-feira, 18 de novembro de 2024 20:06:21
+
+There is one thing that will separate the pack into winners and losers: the on-demand capability to make bold and decisive course-corrections that are executed effectively and with urgency.
+==========
+Michael Lewis - Moneyball-W. W. Norton & Company (2003) (Michael Lewis)
+- Seu destaque na página 147 | posição 1885-1887 | Adicionado: domingo, 19 de janeiro de 2025 21:18:05
+
+Win with nobodies and the fans showed up, and the nobodies became stars; lose with stars and the fans stayed home, and the stars became nobodies.
+==========
